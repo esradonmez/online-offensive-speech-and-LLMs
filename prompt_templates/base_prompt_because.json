@@ -1,0 +1,8 @@
+{
+    "prompt_template": "<system_prompt>\n<example>\n<prompt_instruction1> <prompt_instruction2>\n",
+    "prompt_texts":{
+        "system_prompt": "You are a helpful assistant assessing whether a post is offensive or not.",
+        "prompt_instruction1": "Is the post given above offensive?",
+        "prompt_instruction2": "Start your answer with 'Yes, because' or 'No, because'."
+    }
+}

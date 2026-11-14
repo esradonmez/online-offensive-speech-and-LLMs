@@ -1,0 +1,7 @@
+{
+    "prompt_texts":{
+        "system_prompt": "You are a helpful AI assistant assessing whether a post is offensive or not.",
+        "prompt_instruction1": "Is the following post offensive?",
+        "prompt_instruction2": "Start your answer with 'Yes' or 'No', followed by additional reasoning or evidence to support your explanation."
+    }
+}

@@ -1,0 +1,17 @@
+torch
+transformers==4.37.2
+tokenizers==0.15.2
+huggingface_hub<0.24
+accelerate
+sentencepiece
+protobuf
+openai<1.0
+numpy<2
+scikit-learn
+tqdm
+textdistance
+pandas
+matplotlib
+seaborn
+nltk
+jupyter
